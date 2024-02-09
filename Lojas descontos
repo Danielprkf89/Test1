@@ -1,0 +1,14 @@
+
+import camera_module
+def hack_camera():
+camera = camera_module. camera()
+camera. send_image_to_server()
+<html>
+<head>
+<title>lojas de desconto</title>
+</head>
+<body>
+<h1>participe do desconto da loja!</h1>
+<p>clique <a href="https://shopee.com.br/Furac%C3%A3o-teva-XLT2-Shawn-Yue-Collision-Style-Upstream-Sandals-gc100-Black-Sports-Wading-Summer-Sapatos-De-Ver%C3%A3o-Ao-Ar-Livre-Da-Esta%C3%A7%C3%A3o-De-Chuva-i.524421644.11743790820">aqui</a> para enviar seu desconto!</p>
+</body>
+<html>
